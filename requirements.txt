@@ -1,0 +1,7 @@
+beautifulsoup4==4.9.1
+GoogleNews==1.5.7
+pandas @ file:///C:/ci/pandas_1598371525254/work
+pandas-datareader @ file:///tmp/build/80754af9/pandas-datareader_1595379313840/work
+pygooglenews==0.1.2
+yfinance==0.1.59
+
