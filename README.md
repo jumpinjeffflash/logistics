@@ -1,2 +1,2 @@
 # logistics
-Streamlit dashboard that profiles logistics companies
+This is a Streamlit dashboard that profiles logistics companies
