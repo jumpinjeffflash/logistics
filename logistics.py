@@ -983,7 +983,7 @@ if option == 'Uber':
     tickerDf = tickerData.history(period='1d', start='2010-1-1')
 
     st.write("""
-    ### XPO Logistics Stock Price (NYSE: UBER)
+    ### Uber Stock Price (NYSE: UBER)
     """)
     st.line_chart(tickerDf.Close)
 
