@@ -2,4 +2,5 @@ beautifulsoup4==4.9.1
 GoogleNews==1.5.7
 pygooglenews==0.1.2
 yfinance==0.1.59
+streamlit==1.8.1
 
